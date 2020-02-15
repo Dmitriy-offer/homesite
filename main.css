@@ -1,0 +1,237 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap&subset=cyrillic-ext");
+@import url("https://fonts.googleapis.com/css?family=Revalia&display=swap");
+.first {
+  height: 700px;
+  background-color: #EEEFF1;
+}
+
+.lg {
+  margin-top: 50px;
+}
+.lg span {
+  font-size: 48px;
+  font-family: "Revalia", cursive;
+  color: #34547A;
+}
+
+.list ul {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 75px;
+}
+.list ul li {
+  display: inline;
+  margin-right: 45px;
+}
+.list ul li a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.picture {
+  margin-top: 180px;
+}
+
+.block {
+  margin-top: 170px;
+}
+.block h1 {
+  font-size: 48px;
+  font-family: "Roboto", sans-serif;
+  font-weight: medium;
+}
+.block p {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  color: #727272;
+  margin: 60px 0 60px 0;
+  line-height: 25px;
+}
+.block button {
+  background-color: #34547A;
+  color: #fff;
+  width: 225px;
+  height: 65px;
+  text-transform: uppercase;
+}
+
+.second {
+  background-color: #E5E5E5;
+}
+
+.info {
+  margin-top: 120px;
+}
+.info p {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  margin: 50px 0 100px 0;
+  color: #727272;
+  line-height: 25px;
+}
+.info h2 {
+  font-size: 32px;
+  font-family: "Roboto", sans-serif;
+  font-weight: medium;
+}
+
+.pr {
+  height: 250px;
+  background-color: #34547A;
+}
+.pr img {
+  position: absolute;
+  margin-top: 100px;
+}
+.pr h3 {
+  margin: 105px 0 0 70px;
+  color: #fff;
+  font-size: 21px;
+  font-family: "Roboto", sans-serif;
+  font-weight: medium;
+}
+.pr p {
+  margin-left: 70px;
+  color: #fff;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  margin-top: 5px;
+}
+
+.third {
+  height: 640px;
+}
+.third h2 {
+  font-size: 32px;
+  font-family: "Roboto", sans-serif;
+  font-weight: medium;
+  margin: 200px 257px 50px 0;
+}
+.third p {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  margin: 0 0 17px 0;
+  color: #727272;
+  line-height: 25px;
+}
+.third .k {
+  position: absolute;
+}
+.third .j {
+  position: absolute;
+}
+.third .ok {
+  margin-bottom: 45px;
+}
+.third .last {
+  margin-top: 95px;
+}
+
+.fourth {
+  height: 1000px;
+  background-color: #EEEFF1;
+}
+.fourth .info {
+  margin-top: 120px;
+}
+.fourth .info p {
+  margin: 50px 0 50px 0;
+  color: #727272;
+}
+
+.video {
+  position: relative;
+}
+.video .v {
+  position: absolute;
+}
+.video .i {
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 505px;
+}
+
+.five {
+  height: 1280px;
+}
+.five img {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  float: left;
+}
+.five .container-fluid {
+  padding: 0;
+}
+.five .img {
+  position: absolute;
+}
+.five .im {
+  position: absolute;
+}
+.five .microsoft {
+  margin-top: 120px;
+}
+
+.six {
+  height: 770px;
+  background-color: #E5E5E5;
+}
+.six p {
+  margin-bottom: 65px;
+}
+.six .form-control {
+  height: 50px;
+  font-size: 14px;
+}
+.six ::-webkit-input-placeholder {
+  color: #5F5D5D;
+  font-family: "Roboto", sans-serif;
+}
+.six :-ms-input-placeholder {
+  color: #5F5D5D;
+  font-family: "Roboto", sans-serif;
+}
+.six ::-ms-input-placeholder {
+  color: #5F5D5D;
+  font-family: "Roboto", sans-serif;
+}
+.six ::placeholder {
+  color: #5F5D5D;
+  font-family: "Roboto", sans-serif;
+}
+.six button {
+  background-color: #34547A;
+  color: #fff;
+  width: 160px;
+  height: 65px;
+  margin-top: 50px;
+  text-transform: uppercase;
+}
+
+.mas {
+  margin-top: 20px;
+}
+.mas .form-control {
+  height: 175px;
+}
+
+.seven {
+  height: 150px;
+  background-color: #34547A;
+}
+.seven h3 {
+  font-size: 21px;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+  margin: 55px 0 20px 0;
+  font-weight: medium;
+}
+.seven p {
+  font-size: 13px;
+  font-family: "Roboto", sans-serif;
+  color: #fff;
+}
+.seven img {
+  margin-top: 60px;
+}

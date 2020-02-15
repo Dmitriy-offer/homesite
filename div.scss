@@ -1,0 +1,201 @@
+.first{
+    height: 700px;
+    background-color: $gray;
+}
+.lg{
+    margin-top: 50px;
+    span{
+         @include font(48px, $fonta);
+         color: $blue;
+    }
+}
+ .list ul{
+      @include font(16px,$fontf);
+     margin-top: 75px;
+     li{
+        display: inline;
+        margin-right: 45px;
+        a{
+            color:  #000000;
+             text-decoration: none;
+        }
+    }
+}
+.picture {
+    margin-top: 180px;
+}
+ .block{
+    margin-top: 170px;
+    h1{
+        @include font(48px,$fontf);
+        font-weight: medium;
+        ;
+    }
+    p{
+        @include font(16px,$fontf);
+        color: $col;
+        margin: 60px 0 60px 0;
+        line-height: 25px;
+    }
+    button{
+        background-color: $blue ;
+        color: $white;
+        width: 225px;
+        height: 65px;
+        text-transform: uppercase;
+    }
+}
+.second {
+    background-color: $swhite;
+}
+.info{
+    margin-top: 120px;
+    p{
+        @include font(16px,$fontf);
+        margin: 50px 0 100px 0;
+        color:$col ;
+        line-height: 25px;   
+    }
+    h2{
+        @include font(32px,$fontf); 
+        font-weight: medium;
+    }
+}
+.pr{
+    height: 250px;
+    background-color: $blue;
+     img{
+         position: absolute;
+         margin-top: 100px;
+     }
+     h3{
+         margin:105px 0 0 70px ;
+         color: $white;
+         @include font(21px,$fontf); 
+        font-weight: medium;
+     }
+     p{
+         margin-left: 70px;
+         color:  $white;
+         @include font(16px,$fontf); 
+         margin-top: 5px;
+         
+     }
+}
+.third{
+    height: 640px;
+    h2{
+        @include font(32px,$fontf); 
+        font-weight: medium;
+        margin: 200px 257px 50px 0;
+    }
+    p{
+        @include font(16px,$fontf);
+        margin: 0 0 17px 0;
+        color:$col ;
+        line-height: 25px;   
+    }
+      .k{
+          position: absolute;
+      }
+      .j{
+          position: absolute;
+      }
+      .ok{
+          margin-bottom: 45px;
+      }
+      .last{
+          margin-top: 95px;
+      }
+}
+.fourth{
+    height: 1000px;
+background-color: $gray;
+    .info{
+        margin-top: 120px;
+        p{
+            margin: 50px 0 50px 0;
+             
+            color:$col ;
+        }
+    }
+}
+.video{
+    position: relative;
+    .v{
+        position: absolute;
+    }
+    .i{
+        position: absolute;
+        margin-top: 250px;
+        margin-left: 505px;
+    }
+}
+.five{
+height: 1280px;
+    img{
+margin: 0;
+padding: 0;
+border: 0;
+float: left;
+    }
+    .container-fluid{
+      padding: 0;
+
+    }
+    .img{
+        position: absolute;
+    }
+    .im{
+        position: absolute;
+    }
+    .microsoft{
+        margin-top: 120px;
+    }
+}
+.six{
+    height: 770px;
+    background-color: $swhite;
+    p{
+        margin-bottom: 65px;
+    }
+     .form-control{
+         height: 50px;
+         font-size: 14px;     
+     }
+     ::placeholder{
+        color: $gr ;
+        font-family:  $fontf; 
+     }
+     button{
+        background-color: $blue ;
+        color: $white;
+        width: 160px;
+        height: 65px;
+        margin-top: 50px;
+        text-transform: uppercase;
+    }
+}
+.mas{
+    margin-top: 20px;
+    .form-control{
+    height: 175px;
+    }
+}
+.seven{
+    height: 150px;
+    background-color: $blue;
+    h3{
+        @include font(21px,$fontf);
+        color: $white;
+        margin: 55px 0 20px 0; 
+        font-weight: medium;
+    }
+    p{
+        @include font(13px,$fontf);
+        color: $white;
+    }
+    img{
+        margin-top: 60px;
+    }
+}
